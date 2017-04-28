@@ -7,7 +7,7 @@ O **objetivo** desse projeto é de movimentar a comunidade, ensinar as tecnologi
 
 ## Projeto - Página de eventos
 
-O projeto é criar uma página de evento, esses eventos podem vir de qualquer lugar mas devem ser **ao menos 5**.
+O projeto é criar uma página de eventos, esses eventos podem vir de qualquer lugar mas devem ser **ao menos 5**.
 
 Cada evento é composto por :
 
@@ -22,8 +22,8 @@ Cada evento é composto por :
 
 Para a primeira parte devem ser seguidas as seguintes regras:
 
-* Utilizar **apenas** HTML, CSS e Javascript **SEM BIBLIOTECAS**;
-* Subir o projeto no [gitHub](https://github.com/),[bitBucket](https://bitbucket.org/) ou [gitLab](https://gitlab.com).
+* Utilizar **apenas** HTML, CSS e Javascript **SEM BIBLIOTECAS**; (Material nosso sobre nos próximos dias);
+* Subir o projeto no [gitHub](https://github.com/),[bitBucket](https://bitbucket.org/) ou [gitLab](https://gitlab.com). (Curso de git em breve!).
 * O projeto deve ser apresentado de forma diferente e funcional em dispositivos móveis, celulares e desktops. (Em breve material sobre como emular isso e como criar isso).
 
 
@@ -33,7 +33,7 @@ Há diversos recursos à sua disposição para aprender as tecnologias propostas
 
 ### Comunicação
 
-Está com alguma dúvida? Coloque nas [issues](https://github.com/FreeCodeCampSp/projeto1_2017/issues) do projeto (São como um forum).
+Está com alguma dúvida? Coloque nas [issues](https://github.com/FreeCodeCampSp/projeto1_2017/issues) do projeto (São como um fórum).
 Se quiser entre também no nosso [grupo  do facebook](https://www.facebook.com/groups/free.code.camp.sao.paulo/).
 Também temos um canal de comunicação instantânea no slack, é só pedir para entrar pelo facebook ou por aqui mesmo.
 
