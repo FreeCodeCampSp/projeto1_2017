@@ -197,4 +197,4 @@ Até agora nós:
 * Aprendemos a abrir o arquivo do navegador;
 * Aprendemos sobre a existência do inspetor.
 
-Para iniciar o projeto
+Para iniciar o projeto é preciso adquirir os conhecimentos que estão na [checklist](/README.md#o-que-eu-preciso-aprender) com auxilio dos cursos e tirando dúvidas na comunidade.

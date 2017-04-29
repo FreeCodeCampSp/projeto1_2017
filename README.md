@@ -28,7 +28,7 @@ Para a primeira parte devem ser seguidas as seguintes regras:
 
 ## Não sabe por onde começar? Comece pelo GUIA!
 
-O [guia](https://github.com/FreeCodeCampSp/projeto1_2017/blob/guide/guia.md) vai te ajudar a começar de forma bem básica para poder começar a usar o material auxiliar.
+O [guia](/guia.md) vai te ajudar a começar de forma bem básica para poder começar a usar o material auxiliar.
 
 
 ## Recursos
@@ -43,12 +43,18 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 
 ## O que eu preciso aprender?
 
-[ ] O que é HTML, CSS e Javascript - Veja os Cursos
-[ ] Como usar meu editor de códigos - [Guia em inglês](http://flight-manual.atom.io/)
-[ ] Como escrever HTML
-[ ] Como escrever CSS
-[ ] Como escrever Javascript
-[ ] Como fazer um site responsivo
+[] O que é HTML, CSS e Javascript - Veja os Cursos
+
+[] Como usar meu editor de códigos - [Guia em inglês](http://flight-manual.atom.io/)
+
+[] Como escrever HTML
+
+[] Como escrever CSS
+
+[] Como escrever Javascript
+
+[] Como fazer um site responsivo
+
 
 ### Aprendizado - Cursos
 
