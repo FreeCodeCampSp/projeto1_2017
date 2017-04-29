@@ -22,10 +22,13 @@ Cada evento é composto por :
 
 Para a primeira parte devem ser seguidas as seguintes regras:
 
-* Utilizar **apenas** HTML, CSS e Javascript **SEM BIBLIOTECAS**; (Material nosso sobre nos próximos dias);
+* Utilizar **apenas** HTML, CSS e Javascript **SEM BIBLIOTECAS**;
 * Subir o projeto no [gitHub](https://github.com/),[bitBucket](https://bitbucket.org/) ou [gitLab](https://gitlab.com). (Curso de git em breve!).
 * O projeto deve ser apresentado de forma diferente e funcional em dispositivos móveis, celulares e desktops. (Em breve material sobre como emular isso e como criar isso).
 
+## suporte
+
+O [guia](https://github.com/FreeCodeCampSp/projeto1_2017/blob/guide/guia.md) vai te ajudar a começar.
 
 ## Recursos
 

@@ -41,6 +41,47 @@ Na pasta com o nome que você criou **projetoEventos** na direita, clique com o 
 
 Você verá um novo arquivo aparecer na área do projeto , dentro da pasta e um arquivo aparecern o editor. É nesse área do editor com a aba com o título do nome do arquivo que você vai poder escrever no arquivo correspondente.
 
-![Criando o o projeto][newFile]
+![Criando o o projeto](newFile.gif)
 
-[newFile]: newFile.gif "Primeiro arquivo".
+[newFile]: (newFile.gif) "Primeiro arquivo".
+
+Agora dentro do recém criado arquivo index.html digite a palavra "html", um símbolo deve aparecer.
+
+![Auto complete][autoComplete]
+
+[autoComplete]: autoComplete.png "Auto complete".
+
+Esse símbolo indica uma sugestão para completar um código. Aperte "tab" ou "enter" e ele automaticamnte preencherá diversas palavras para você acelerando seu desenvolvimento.
+
+![Completando o código](autoCompleted.gif)
+
+[autoCompleted]: (autoCompleted.gif) "Completando o código".
+
+Dentro da parte escrito body digite "<h1>Hello World</h1>" e salve o arquivo (ctrl + s).
+
+Seu código no index.html deve estar da seguinte forma agora:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
+</html>
+```
+
+## Visualizando o seu trabalho.
+
+Abra o explorador de arquivos (onde você navega nas suas pastas), e procure o seu arquivo que está na pasta "projetoEventos", abra-o no chrome.
+
+Você deve ver algo assim:
+
+![Visualizando o arquivo](openInChrome.gif)
+
+[openInChrome]: (openInChrome.gif) "Visualizando o arquivo".
+
+Parabéns você já está começando a desenvolver!.
