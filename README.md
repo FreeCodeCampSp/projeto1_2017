@@ -43,17 +43,17 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 
 ## O que eu preciso aprender?
 
-[] O que é HTML, CSS e Javascript - Veja os Cursos
+- [] O que é HTML, CSS e Javascript - Veja os Cursos
 
-[] Como usar meu editor de códigos - [Guia em inglês](http://flight-manual.atom.io/)
+- [] Como usar meu editor de códigos - [Guia em inglês](http://flight-manual.atom.io/)
 
-[] Como escrever HTML
+- [] Como escrever HTML
 
-[] Como escrever CSS
+- [] Como escrever CSS
 
-[] Como escrever Javascript
+- [] Como escrever Javascript
 
-[] Como fazer um site responsivo
+- [] Como fazer um site responsivo
 
 
 ### Aprendizado - Cursos
