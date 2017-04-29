@@ -85,3 +85,17 @@ Você deve ver algo assim:
 [openInChrome]: (openInChrome.gif) "Visualizando o arquivo"
 
 Parabéns você já está começando a desenvolver!.
+
+---
+
+## Até aqui.
+
+O que nós vimos até aqui?
+
+* Nós temos um editor que usa um conceito chamado **projeto** para organizar seus arquivos.
+* O editor possuí algumas funcionalidades como completar nosso código.
+* É possível abrir um arquivo que está salvo em uma pasta qualquer no navegador.
+
+Isso já é o suficiente para molharmos os pés no desenvolvimento e iniciar o projeto. Vamos criar mais alguns arquivos e ensinar mais alguns detalhes para você se sentir confortável a prosseguir com o material auxiliar.
+
+---
