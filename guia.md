@@ -55,9 +55,9 @@ Agora dentro do recém criado arquivo index.html digite a palavra "html", um sí
 
 Esse símbolo indica uma sugestão para completar um código. Aperte "tab" ou "enter" e ele automaticamnte preencherá diversas palavras para você acelerando seu desenvolvimento.
 
-![Completando o código][autoCompleted)]
+![Completando o código][autoCompleted]
 
-[autoCompleted]: (autoCompleted.gif) "Completando o código"
+[autoCompleted]: autoCompleted.gif "Completando o código"
 
 Dentro da parte escrito body digite "&lt;h1&gt;Hello World&lt;/h1&gt;" e salve o arquivo (ctrl + s).
 
