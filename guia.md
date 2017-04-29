@@ -39,6 +39,8 @@ Você deve ter aberto uma pasta na parte esquerda, essa é a pasta do seu projet
 
 Na pasta com o nome que você criou **projetoEventos** na direita, clique com o botão direito do mouse e crie um novo arquivo ("new file") crie um arquivo com o nome de **index.html**.
 
+Esse arquivo será um arquivo da linguagem HTML e será o ponto inicial de todos os otros arquivos (Para aprender mais sobre HTML veja algum dos materias de apoio).
+
 Você verá um novo arquivo aparecer na área do projeto , dentro da pasta e um arquivo aparecern o editor. É nesse área do editor com a aba com o título do nome do arquivo que você vai poder escrever no arquivo correspondente.
 
 ![Criando o o projeto](newFile.gif)
@@ -49,11 +51,11 @@ Agora dentro do recém criado arquivo index.html digite a palavra "html", um sí
 
 ![Auto complete][autoComplete]
 
-[autoComplete]: autoComplete.png "Auto complete".
+[autoComplete]: autoComplete.png "Auto complete"
 
 Esse símbolo indica uma sugestão para completar um código. Aperte "tab" ou "enter" e ele automaticamnte preencherá diversas palavras para você acelerando seu desenvolvimento.
 
-![Completando o código](autoCompleted.gif)
+![Completando o código][autoCompleted)]
 
 [autoCompleted]: (autoCompleted.gif) "Completando o código"
 
@@ -80,7 +82,7 @@ Abra o explorador de arquivos (onde você navega nas suas pastas), e procure o s
 
 Você deve ver algo assim:
 
-![Visualizando o arquivo](openInChrome.gif)
+![Visualizando o arquivo][openInChrome]
 
 [openInChrome]: (openInChrome.gif) "Visualizando o arquivo"
 
@@ -99,3 +101,62 @@ O que nós vimos até aqui?
 Isso já é o suficiente para molharmos os pés no desenvolvimento e iniciar o projeto. Vamos criar mais alguns arquivos e ensinar mais alguns detalhes para você se sentir confortável a prosseguir com o material auxiliar.
 
 ---
+
+## Continuando o projeto, CSS.
+
+Esse guia não vai te ensinar sobre CSS, para isso temos os cursos do material auxiliar. No entanto estmaos visando que você tenha o material inicial para aplicar o que aprender nesses guias.
+
+Há diversas formas de inserir CSS:
+
+* Inline;
+* Folha Externa;
+* Folha Interna;
+
+No momento não é necessário saber as difenças mas se você quiser saber há um bom [artigo aqui](http://www.maujor.com/tutorial/insetut.php).
+
+Nós vamos criar um arquivo **seprado** para colocar nosso CSS e poder iniciar o projeto com a base de todas as ferramentas que vamos utilizar.
+
+Dá mesma forma como criamos o index.html crie um arquivo chamado index.css.
+
+Após isso você terá 2 arquivos e 2 abas no seu editor e poderá navegar através delas clicando na aba ou no nome do arquivo.
+
+![Navegando nos arquivos][fileNavigation]
+
+[fileNavigation]: (fileNavigation.gif) "Navegando nos arquivos"
+
+Esses arquivos existem na mesma pasta mas não sabem um do outro. Lembra que falamos que há formas de incluir o CSS no HTML? Faremos isso no arquivo **index.html**.
+
+Coloraremos o seguinte código dentro da parte da "head" dele:
+
+```html
+  <link rel="stylesheet" type="text/css" href="index.css">
+```
+
+De forma que seu código HTML completo deve se parecer com isso agora:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <h1>Hello World</h1>
+  </body>
+</html>
+```
+
+Para testar se isso está funcionando vamos modificar a cor do nosso fundo para a cor do Free Code Camp chamada de "darkgreen".
+
+No arquivo index.css escreva o seguinte código:
+
+```css
+body {
+  color: white;
+  background-color: darkgreen;
+}
+```
+
+O código acima fala para nossa página possuir a cor de texto branca , e o fundo verde escuro.
