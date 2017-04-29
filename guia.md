@@ -59,7 +59,7 @@ Esse símbolo indica uma sugestão para completar um código. Aperte "tab" ou "e
 
 [autoCompleted]: (autoCompleted.gif) "Completando o código"
 
-Dentro da parte escrito body digite "<h1>Hello World</h1>" e salve o arquivo (ctrl + s).
+Dentro da parte escrito body digite "&lt;h1&gt;Hello World&lt;/h1&gt;" e salve o arquivo (ctrl + s).
 
 Seu código no index.html deve estar da seguinte forma agora:
 
@@ -84,7 +84,7 @@ Você deve ver algo assim:
 
 ![Visualizando o arquivo][openInChrome]
 
-[openInChrome]: (openInChrome.gif) "Visualizando o arquivo"
+[openInChrome]: openInChrome.gif "Visualizando o arquivo"
 
 Parabéns você já está começando a desenvolver!.
 
@@ -122,7 +122,7 @@ Após isso você terá 2 arquivos e 2 abas no seu editor e poderá navegar atrav
 
 ![Navegando nos arquivos][fileNavigation]
 
-[fileNavigation]: (fileNavigation.gif) "Navegando nos arquivos"
+[fileNavigation]: fileNavigation.gif "Navegando nos arquivos"
 
 Esses arquivos existem na mesma pasta mas não sabem um do outro. Lembra que falamos que há formas de incluir o CSS no HTML? Faremos isso no arquivo **index.html**.
 
@@ -160,3 +160,41 @@ body {
 ```
 
 O código acima fala para nossa página possuir a cor de texto branca , e o fundo verde escuro.
+
+Atualize o navegador e veja o resultado. Ele deve se parecer com a imagem abaixo:
+
+![Página com CSS][withCss]
+
+[withCss]: withCss.png "Página com CSS"
+
+Neste momento nós temos um arquivo de estilo (css) que podemos modificar, um arquivo HTML que podemos visualizar no navegador, e sabemos um pouco do editor.
+
+## O inspetor
+
+A última ferramenta que queria abordar nesse guia inicial é o inspetor do browser. No seu navegador digite "ctrl+shift+i" ou clique com o botão direito e vá em "inspect" ou "inspecionar".
+
+Isso abrirá o inspetor do chrome, você pode visualizar seus arquivos, manipulá-los sem consequências pois eles não serão salvos e experimentar de forma fácil diversas coisas.
+
+![Inspetor do chrome][inspect]
+
+[inspect]: inspect.gif "Inspetor do chrome"
+
+No Inspetor por exemplo é possível modificar as cores e tamanhos.E é uma das melhores ferramentas junto com seu editor.
+
+![Inspetor do chrome alterando cores][inspectChangeColor]
+
+[inspectChangeColor]: inspectChangeColor.gif "Inspetor do chrome  alterando cores"
+
+Há bastante material por aí sobre o inspetor do chrome como estes vídeos feitos pelo pessoal do [tableless](
+https://tableless.com.br/os-segredos-chrome-devtools/
+).
+
+## Finalizando
+
+Até agora nós:
+* Instalamos o editor;
+* Criamos arquivos;
+* Aprendemos a abrir o arquivo do navegador;
+* Aprendemos sobre a existência do inspetor.
+
+Para iniciar o projeto
