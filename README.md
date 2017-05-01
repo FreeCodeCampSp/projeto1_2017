@@ -45,7 +45,7 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 
 - [ ] O que é HTML, CSS e Javascript - Veja os Cursos
 
-- [ ] Como usar meu editor de códigos - [Guia em inglês](http://flight-manual.atom.io/)
+- [ ] Como usar o editor de códigos (ATOM) - [Guia em inglês](http://flight-manual.atom.io/)
 
 - [ ] Como escrever HTML
 
