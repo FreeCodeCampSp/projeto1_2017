@@ -55,6 +55,9 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 
 - [ ] Como fazer um site responsivo
 
+### Aprendizado - Guias específicos
+
+[LearnLayout] http://pt-br.learnlayout.com/ - Aprenda CSS a fundo com um excelente curso em português
 
 ### Aprendizado - Cursos
 
