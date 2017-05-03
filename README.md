@@ -39,6 +39,7 @@ Foto: Alguma foto
 
 *A informação acima não é tão interessante né? Cabe a você usar suas habilidades de HTML, CSS e JS para fazer isso ser melhor!*
 
+Lembre-se que você deve apresentar ao menos 5 eventos na mesma página. Parecido com o que o facebook faz.
 
 ## Regras do Projeto
 
