@@ -3,14 +3,14 @@
 Este projeto originou-se na palestra do dia 28 de abril de 2017 do FreeCodeCamp-SP (Slides e post dos slides até amanhã à noite).
 O **objetivo** desse projeto é de movimentar a comunidade, ensinar as tecnologias propostas e fornecer um projeto **feito do início ao fim e totalmente compreensível ao desenvolvedor**.
 
-**Se você se sentir perdido ou confuso não exite em perguntar, não existe pergunta básica ou burra**.
+**Se você se sentir perdido ou confuso não hesite em perguntar. Não existe pergunta básica ou burra**!
 ## Isso é feito com toda comunidade do FCC-SP?
 
-Não. Nesse momento o projeto é todo seu. Você certamente **pode e deve** procurar ajuda, conversar com amigos e pedir opiniões mas o código é seu por hora.
+Não. Nesse momento, o projeto é todo seu. Você certamente **pode e deve** procurar ajuda, conversar com amigos e pedir opiniões mas o código é seu por hora.
 
 ## Projeto - Página de eventos
 
-O projeto é criar uma página de eventos, esses eventos podem vir de qualquer lugar mas devem ser **ao menos 5**.
+O projeto é criar uma página de eventos, esses eventos podem vir de qualquer lugar, mas, devem ser **ao menos 5**.
 
 Cada evento é composto por :
 * Nome
@@ -31,7 +31,7 @@ Data: 1/7/2017
 
 Horário: 8:00-19:00
 
-Local: Teatro hotel do maksoud plaza: R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo
+Local: Teatro hotel do Maksoud Plaza: R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo
 
 Organizadores:  Front In Sampa
 
@@ -47,16 +47,16 @@ Para a primeira parte devem ser seguidas as seguintes regras:
 
 * Utilizar **apenas** HTML, CSS e Javascript **SEM BIBLIOTECAS**;
 * Subir o projeto no [gitHub](https://github.com/),[bitBucket](https://bitbucket.org/) ou [gitLab](https://gitlab.com). (Curso de git em breve!).
-* O projeto deve ser apresentado de forma diferente e funcional em dispositivos móveis, celulares e desktops. (Em breve material sobre como emular isso e como criar isso).
+* O projeto deve ser apresentado de forma diferente e funcional em dispositivos móveis, celulares e desktops. (Em breve material sobre como *emular* e criar isso).
 
 ## Não sabe por onde começar? Comece pelo GUIA!
 
-O [guia](/guia.md) vai te ajudar a começar de forma bem básica para poder começar a usar o material auxiliar.
+O [guia](/guia.md), vai te ajudar a começar de forma bem básica para usar o material auxiliar.
 
 
 ## Recursos
 
-Há diversos recursos à sua disposição para aprender as tecnologias propostas e para se comunicar. Caso se sinta confuso não exite em pedir ajuda nos nossos canais de comunicação.
+Há diversos recursos à sua disposição para aprender as tecnologias propostas e para se comunicar. Caso sinta confusão em algum momento, não hesite em pedir ajuda nos nossos canais de comunicação.
 
 ### Comunicação
 
