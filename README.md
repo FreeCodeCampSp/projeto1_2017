@@ -10,13 +10,32 @@ O **objetivo** desse projeto é de movimentar a comunidade, ensinar as tecnologi
 O projeto é criar uma página de eventos, esses eventos podem vir de qualquer lugar mas devem ser **ao menos 5**.
 
 Cada evento é composto por :
-
+* Nome
 * Data
 * Horário
 * Local
 * Descrição
 * Organizador(es)
 * Foto
+
+Que tipo de evento? Podem ser eventos do seu gosto como shows, festas etc ou eventos de desenvolvimento como o [FrontInSampa](http://www.frontinsampa.com.br/), vamos ver ele no exemplo abaixo:
+
+### Exemplo aplicado
+
+Nome: Front In Sampa 6ª edição
+
+Data: 1/7/2017
+
+Horário: 8:00-19:00
+
+Local: Teatro hotel do maksoud plaza: R. São Carlos do Pinhal, 424 - Bela Vista, São Paulo
+
+Organizadores:  Front In Sampa
+
+Foto: Alguma foto
+
+*A informação acima não é tão interessante né? Cabe a você usar suas habilidades de HTML e JS para fazer isso ser melhor!*
+
 
 ## Regras do Projeto
 
