@@ -90,7 +90,7 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 
 [Udemy](https://www.udemy.com/courses/) - Em português.
 
-[Free code camp](https://www.freecodecamp.com/)
+[FreeCodeCamp](https://www.freecodecamp.com/)
 
 ### Aprendizado - Sites
 
