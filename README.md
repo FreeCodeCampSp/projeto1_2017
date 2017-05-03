@@ -37,7 +37,7 @@ Organizadores:  Front In Sampa
 
 Foto: Alguma foto
 
-*A informação acima não é tão interessante né? Cabe a você usar suas habilidades de HTML e JS para fazer isso ser melhor!*
+*A informação acima não é tão interessante né? Cabe a você usar suas habilidades de HTML, CSS e JS para fazer isso ser melhor!*
 
 
 ## Regras do Projeto
