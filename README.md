@@ -4,6 +4,9 @@ Este projeto originou-se na palestra do dia 28 de abril de 2017 do FreeCodeCamp-
 O **objetivo** desse projeto é de movimentar a comunidade, ensinar as tecnologias propostas e fornecer um projeto **feito do início ao fim e totalmente compreensível ao desenvolvedor**.
 
 **Se você se sentir perdido ou confuso não exite em perguntar, não existe pergunta básica ou burra**.
+## Isso é feito com toda comunidade do FCC-SP?
+
+Não. Nesse momento o projeto é todo seu. Você certamente **pode e deve** procurar ajuda, conversar com amigos e pedir opiniões mas o código é seu por hora.
 
 ## Projeto - Página de eventos
 
