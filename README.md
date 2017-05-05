@@ -94,6 +94,7 @@ Também temos um canal de comunicação instantânea no slack, é só pedir para
 ### Aprendizado - Livros
 
 [Javascript Eloquent](https://github.com/braziljs/eloquente-javascript) - Em Português
+
 [Eloquent Javascript](http://eloquentjavascript.net/) - Em Inglês
 
 ### Aprendizado - Sites
