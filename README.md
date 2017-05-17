@@ -79,6 +79,10 @@ Os conceitos da primeira parte estão mais do que cobertos nos cursos, abaixo se
   * [Visão geral sobre o chrome devtools](https://fernandofreela.wordpress.com/2013/09/18/chrome-devtools/)
   * [Dicas para o chrome devtools](https://www.turbosite.com.br/blog/15-dicas-para-desenvolver-utilizando-o-chrome-devtools/)
 
+### Projetos da parte 1:
+
+[Richard Manzoli](https://richmanzoli.github.io/freeCodeCampSp/)
+
 ## Parte 2
 **Guia mais completo no futuro**.
 A segunda parte consiste em copiar o que foi feito em HTML e CSS para SASS e Pug e aprender a utilizar a linha de comando e a ferramenta npm. E manipular o DOM
