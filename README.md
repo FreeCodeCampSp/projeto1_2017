@@ -41,7 +41,11 @@ Foto: Alguma foto
 
 Lembre-se que você deve apresentar ao menos 5 eventos na mesma página. Parecido com o que o facebook faz.
 
-## Regras do Projeto
+## Parte 0 - Como começar a desenvolver.
+
+O [guia](/guia.md), vai te ajudar a começar de forma bem básica para usar o material auxiliar.
+
+## Parte 1
 
 Para a primeira parte devem ser seguidas as seguintes regras:
 
@@ -49,10 +53,48 @@ Para a primeira parte devem ser seguidas as seguintes regras:
 * Subir o projeto no [gitHub](https://github.com/),[bitBucket](https://bitbucket.org/) ou [gitLab](https://gitlab.com). (Curso de git em breve!).
 * O projeto deve ser apresentado de forma diferente e funcional em dispositivos móveis, celulares e desktops. (Em breve material sobre como *emular* e criar isso).
 
-## Não sabe por onde começar? Comece pelo GUIA!
+### Conceitos da parte 1
 
-O [guia](/guia.md), vai te ajudar a começar de forma bem básica para usar o material auxiliar.
+Os conceitos da primeira parte estão mais do que cobertos nos cursos, abaixo seguem os pontos de enfoque com alguns recursos adicionais em português:
 
+* HTML e CSS o que são ?
+ * [Introdução à html e css](https://www.caelum.com.br/apostila-html-css-javascript/introducao-a-html-e-css/)
+ * [Introduction to html](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+ * [Introdução ao css](http://www.maujor.com/tutorial/intrtut.php)
+* Tags e seus sentidos, porque usar um parágrafo, div ou section? 
+  * [Documentação das tags](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5/HTML5_element_list)
+* Unidades relativas: Porcentagem ,em , rem, vh , para que serve? quando usar?
+  * [Unidades de medida](http://maujor.com/tutorial/unidades-de-medidas-css.php)
+* Posicionamento posições absolutas, relativas e fixas. Modelo de caixa (box-sizing):
+  * [Guia sobre box-sizing](http://maujor.com/tutorial/propriedade-css-box-sizing.php)
+  * [Guia sobre posicionamento](https://tableless.com.br/propriedade-position-do-css/)
+* Design fluído e responsivo tamanhos minímos e máximos.
+  * [Layout fluido ou responsivo](https://www.turbosite.com.br/blog/layout-fluido-ou-responsivo/)
+* Media queries
+  * [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+* Como usar seu editor
+  * [Atom flight manual](https://flight-manual.atom.io/)
+* Como usar seu inspetor.
+  * [Official documentation](https://developer.chrome.com/devtools)
+  * [Visão geral sobre o chrome devtools](https://fernandofreela.wordpress.com/2013/09/18/chrome-devtools/)
+  * [Dicas para o chrome devtools](https://www.turbosite.com.br/blog/15-dicas-para-desenvolver-utilizando-o-chrome-devtools/)
+
+## Parte 2
+**Guia mais completo no futuro**.
+A segunda parte consiste em copiar o que foi feito em HTML e CSS para SASS e Pug e aprender a utilizar a linha de comando e a ferramenta npm. E manipular o DOM
+
+### Conceitos da parte 2
+
+* O que é a linha de comando e como usar?
+  * [Introdução à linha de comando](https://tutorial.djangogirls.org/pt/intro_to_command_line/).
+* O que é o NPM e como usar?
+* Pug
+* SASS
+* Como manipular o DOM no frontend
+
+## Parte 3
+
+Mover o que foi feito para React utilizano o webpack, e começar a se tornar um(a) desenvovedor React(a) uma das tecnologias mais procuradas no mercado.
 
 ## Recursos
 
